@@ -1,0 +1,24 @@
+.first-block {
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+
+.first-block-active {
+    background-color: blueviolet;
+}
+  
+.second-block.second-block-active {
+    background-color: aqua;
+}
+
+.second-block {
+    width: 200px;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+.button {
+    margin-bottom: 20px;
+}
